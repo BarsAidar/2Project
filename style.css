@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+html{
+    height: webkit-fill-available;
+}
+body{
+    height: webkit-fill-available;
+}
 .main{
     width: 100%;
     background: linear-gradient(to top , rgba(0,0,0,0.3)50%, rgba(0,0,0,0.3)50%),url(img/aurora-borealis-4965488_1280.jpg);
